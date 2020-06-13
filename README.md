@@ -1,2 +1,4 @@
 # flutter-assignments
-Assignment-1
+Udemy Assignments 
+<br>
+Flutter Course by AcadeMind
